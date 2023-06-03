@@ -8,6 +8,7 @@
 <h2 align="center">Projects</h2>
 
 - [Rebel Deathmatch](https://discord.gg/rebeldm) *(FiveM UK/EU based Deathmatch Server)*
+- [Slash Command VRP Discord Bot](https://github.com/TB420/tb_vrp_discord_bot) *(Slash Command vRP Fivem Discord Bot)*
 
 <h2 align="center">Contact</h2>
 
