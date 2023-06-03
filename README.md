@@ -3,7 +3,7 @@
 
 <h2 align="center">Programming Languages</h2>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,lua&includeNames=true&theme=mountain)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox]([https://github-widgetbox.vercel.app/api/skills?languages=python,lua&includeNames=true&theme=mountain](https://github-widgetbox.vercel.app/api/skills?languages=python,lua,js&includeNames=true&theme=mountain))](https://github.com/Jurredr/github-widgetbox)
 
 <h2 align="center">Projects</h2>
 
