@@ -7,6 +7,7 @@
 
 <h2 align="center">Projects</h2>
 
+- [VITAL Deathmatch](https://discord.io/vital5m) *(Successor of Rebel Deathmatch, New Ideads And Redone)*
 - [Rebel Deathmatch](https://discord.gg/rebeldm) *(FiveM UK/EU based Deathmatch Server)*
 - [TB Discord Bot](https://github.com/TB420/tb_vrp_discord_bot) *(Slash Command vRP Fivem Discord Bot)*
 
@@ -14,5 +15,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/534417173565931520)](https://discord.com/users/534417173565931520)
 
-- discord id: 534417173565931520
 
