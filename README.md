@@ -16,3 +16,4 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/534417173565931520)](https://discord.com/users/534417173565931520)
 
 
+![](https://komarev.com/ghpvc/?username=TB420)
